@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /devis-plomberie/
+Crawl-delay: 3
+
+Sitemap: https://soumission-plombier.ca/sitemap-index.xml
